@@ -1,0 +1,12 @@
+Source: fonts-jara
+Section: fonts
+Priority: extra
+Maintainer: Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.4
+
+Package: fonts-jara
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Fuentes Jara
+  Fuentes Jara
