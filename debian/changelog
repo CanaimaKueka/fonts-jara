@@ -1,3 +1,9 @@
+fonts-jara (1.0+1) unstable; urgency=low
+
+  * [a0f23a3] Mejorando información en debian/control.
+
+ -- Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>  Mon, 06 May 2013 21:44:21 -0430
+
 fonts-jara (1.0) unstable; urgency=low
 
   * Versión inicial conteniendo las fuentes Jara.
