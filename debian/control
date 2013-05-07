@@ -2,11 +2,14 @@ Source: fonts-jara
 Section: fonts
 Priority: extra
 Maintainer: Luis Alejandro Martínez Faneyth <luis@huntingbears.com.ve>
-Build-Depends: debhelper (>= 7)
-Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.3
+Homepage: http://canaima.softwarelibre.gob.ve/
+Vcs-Git: git://gitorious.org/canaima-gnu-linux/fonts-jara.git
+Vcs-Browser: http://gitorious.org/canaima-gnu-linux/fonts-jara/trees/master
 
 Package: fonts-jara
 Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Description: Fuentes Jara
-  Fuentes Jara
+Description: Conjunto de fuentes para el tema Gnamon
+ Contiene las fuentes TTF 'Jara'.
